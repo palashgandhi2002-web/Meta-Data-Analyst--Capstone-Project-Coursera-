@@ -41,6 +41,3 @@ To view or use this project:
 ## License
 
 This project is for educational and professional portfolio use. 
-
-
-[9](https://www.readme-templates.com)
